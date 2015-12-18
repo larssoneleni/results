@@ -10,6 +10,3 @@
 # Next things is to check each column (from our outputfile) with our 3 criterias!
 ####
 
-
-
-
