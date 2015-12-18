@@ -8,7 +8,10 @@ To next time we are going to start programming and therfore we are going to read
 2015-12-18
 Today we worked futher with understanding the project and what it's saying before creating our program. 
 2 files have been created: code2015-12-18.py    res2015-12-18.txt
-The code-file there should be code with description but today it is more description on what the code could contain.
-The res-file is the result of what the code gives, tells us, if it has errors what does it depends on and questions. Today it the file contain for the most questions for next time.
+The code-file there should be code with description but 
+today it is more description on what the code could contain.
+The res-file is the result of what the code gives, tells us, 
+if it has errors what does it depends on and questions. 
+Today it the file contain for the most questions for next time.
 
 
