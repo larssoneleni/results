@@ -9,4 +9,5 @@ What does the 3 criterias means?
    *  at least 50% of amino acids are unique,
    *  no amino acid appears more than twice.
 )
-
+Whats next?
+How to check each columns?
