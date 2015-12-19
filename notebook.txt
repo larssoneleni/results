@@ -4,9 +4,10 @@ We have also created our directory organization with help of the Stafford Nobles
 http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
 We choose to have a top level directory named Project and within that directoty we created five subdirectories 
 (doc, data, src, bin and Results). We also choose to use Nobles idea with dates because we thought it was a good way to connect
-the different parts that we are going to write. For example we can go to our notebook and see that the day (2015-12-15) we wrote
-a script and we can then in Results we can find two files with that date (2015-12-15) in their name: One is containing the code
-and the other one has the results from a test run of the code.
+the different parts that we are going to write. For example we can go to our notebook and see that the day (2015-12-15) we
+wrote a script and we can then in Results we can find two files with that date (2015-12-15) in their name: One is containing
+the code and the other one has the results from a test run of the code.
+We also copied the data from /info/appbio12/data/noise_project to our data directory. We did that with the comandline 'cp -r * /home/n/u1tw68bn/appbio15/Project/data'.
 
 To next time we are going to start programming and therfore we are going to read more about the project to get a deeper 
 understanding about it.  
@@ -19,5 +20,14 @@ today it is more description on what the code could contain.
 The res-file is the result of what the code gives, tells us, 
 if it has errors what does it depends on and questions. 
 Today it the file contain for the most questions for next time.
+
+2015/12/19
+I have created the same directory structur on my KTH login as we have on Viktors KTH login. I have also copied the data
+from /info/appbio12/data/noise_project as we did 2015-12-15. The plan was to start programming today but I got stuck because I
+did not understand the assigment due to the language. 
+
+To the next time I gonna get help to understand the egnlish so I can start with the code.
+/Eleni Larsson
+
 
 
