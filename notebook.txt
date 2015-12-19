@@ -2,8 +2,14 @@
 Today we have choose to work with GitHub for sharing our files.
 We have also created our directory organization with help of the Stafford Nobles article:
 http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
-We choose to have a top level directory named Project and within that directoty we created five subdirectories (doc, data, src, bin and Results). We also choose to use Nobles idea with dates because we thought it was a good way to connect the different parts that we are going to write. For example we can go to our notebook and see that the day (2015-12-15) we wrote a script and we can then in Results we can find two files with that date (2015-12-15) in their name: One is containing the code and the other one has the results from a test run of the code.
-To next time we are going to start programming and therfore we are going to read more about the project to get a deeper understanding about it.  
+We choose to have a top level directory named Project and within that directoty we created five subdirectories 
+(doc, data, src, bin and Results). We also choose to use Nobles idea with dates because we thought it was a good way to connect
+the different parts that we are going to write. For example we can go to our notebook and see that the day (2015-12-15) we wrote
+a script and we can then in Results we can find two files with that date (2015-12-15) in their name: One is containing the code
+and the other one has the results from a test run of the code.
+
+To next time we are going to start programming and therfore we are going to read more about the project to get a deeper 
+understanding about it.  
 
 2015-12-18
 Today we worked futher with understanding the project and what it's saying before creating our program. 
