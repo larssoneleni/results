@@ -30,7 +30,11 @@ To the next time I gonna get help to understand the egnlish so I can start with 
 /Eleni Larsson
 
 2015-12-21
-We have started to make the programme Column. We have almoste created the program Column for making the columns. Next time we probably will get to do our first test run of our code for making the columns.
-We have to do some error handling in our code to catch if the infile is not a FASTA file. This error controll should lie in our function SeqDic.
-We also have to make our code to read in a file to check if the code is working. The read in part in our program will later be removed because we are going to make a main program that will read in the files. The main program will then call our program Column.  
+We have started to make the programme Column. We have almoste created the program Column for making the columns. Next
+time we probably will get to do our first test run of our code for making the columns.
+We have to do some error handling in our code to catch if the infile is not a FASTA file. This error controll should
+lie in our function SeqDic.
+We also have to make our code to read in a file to check if the code is working. The read in part in our program will
+later be removed because we are going to make a main program that will read in the files. The main program will then
+call our program Column.  
 
