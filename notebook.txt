@@ -49,10 +49,15 @@ the output we where looking fore.
 Nex time we will start doing the program ReducingNoise. This program will remove noisy columns. In our project discription we are
 told that a column is noisy if:
 
-
     there are more than 50% indels,
     at least 50% of amino acids are unique,
     no amino acid appears more than twice.
 
-We are consider doing this three criterias in a if statement.  
+We are consider doing this three criterias in a if statement.
+
+2015-12-29
+I am almost done with the code for ReducingNoise. The program neds to be complement by a function thats reads in a file so that we can
+do a test run of the program. The program consists of three functions. Their is a function for eatch of the three criterias for a
+noisy column.
+/Eleni Larsson
 
