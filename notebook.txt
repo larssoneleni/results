@@ -61,3 +61,32 @@ do a test run of the program. The program consists of three functions. Their is 
 noisy column.
 /Eleni Larsson
 
+2015-12-29
+
+Today I have gone through the task about fastprot, fnj and dendropy. 
+Unfortunately, I've got a little problem. 
+
+According to our project site the KTH computers (CSC-computers) have dendropy - module installed,
+but I could not find it.
+I tried to import it in python and get the message:
+
+Trace Back (Most Recent call last):
+  File "<stdin>", line 1, in <module>
+Import Error: No module named dendropy
+
+I also tested import DendroPy and get the same results!
+I even used the python command: help ('modules')
+which shows all the modules Python has and where dendropy didn't show up. I wonder if and where the program is available?
+
+I checked how we did the tree earlier in lab 2 to see if it can be helpful but couldn't come up with something.
+
+I tried to download dendropy in my Mac-computer and found a site where you could download it, 
+but unfortunately it did not work.
+I couldn't found other so nothing came of it.
+
+I have found the facts about fnj and fastprot but still do not understand how they work. 
+I have been looking after helpful examples of how to use the two progams, but did not find.
+
+Next time I'll work on to understand the task (eg. check if phylo can be helpful?) 
+and hopefully find some useful code!
+/Viktor Sas
