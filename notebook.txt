@@ -90,3 +90,13 @@ I have been looking after helpful examples of how to use the two progams, but di
 Next time I'll work on to understand the task (eg. check if phylo can be helpful?) 
 and hopefully find some useful code!
 /Viktor Sas
+
+2015-12-31
+Yesterday the 30/12, I sat up late.
+I continued with the project where I have finished, at the 29/12.
+I have found some new sources that may be of use.
+Unfortunately, some of these are less good.
+I have not started with the code, because I do not understand the formula according to the fnj:
+http://www.nada.kth.se/~isaac/publications/FNJ_final_icalp.pdf
+which I guess is the right?!
+/Viktor Sas
