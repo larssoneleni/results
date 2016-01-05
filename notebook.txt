@@ -100,3 +100,13 @@ I have not started with the code, because I do not understand the formula accord
 http://www.nada.kth.se/~isaac/publications/FNJ_final_icalp.pdf
 which I guess is the right?!
 /Viktor Sas
+
+2016-01-03
+I have today started to working with the main program. When I started to working with it I realised that it is a good idé for your code to have the tree building and the tree comparing in the main program. In the main program we have a temporary file in the temporary file we put the reduced FASTA file. I wonder if it is a good ide to have the trees in a temporary file as well.
+I also tries to give the program dictonarys as infiles I do not know if this works or not. The program also dose some error handeling. 
+To next time we have to make the program to finde the trees files that was given to us in the data so we can use the trees to campare with the trees we build in the main program. The code for ReducingNoise and the main program needs to be comented
+/Eleni Larsson 
+
+2015-01-04
+I realised that it is probably bettet if the error handeling that checks if a file is a FASTA file or not is in the main program so I put it their instead. I started to read about DendroPy but did not understand it so I emailed the teacher and asked him. I also did the code part to chauch the tree files. The program ReducingNoise hase not bean test runed yet because I cant do test runs on my own computer but I wrote in the code for reading in a file so that next time I am on a school computer I can test it.
+/Eleni Larsson 
