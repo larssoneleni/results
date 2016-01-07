@@ -126,3 +126,10 @@ answer from my teatcher. I have figered out how dendropy works with the taxon_na
 test run my program because I need to get acces to FastPhylo. I have commented my code today in the Main program. And I have
 written a code bit for checking if the reference tree is recovered or not but I do not know if this code workes or not.
 /Eleni Larsson 
+
+2016-01-07
+I still can not run the program FastPhylo. I tried to do the comands
+module use /info/DD2404/appbio15/module
+module add appbio15
+But i do not works. I have to contact the teatch tommorow for help. I tried to copy my and Viktors work into a new GitHub account but I can not figure out how to pull och push the work into the new account.
+/Eleni Larsson
