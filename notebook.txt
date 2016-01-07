@@ -112,10 +112,17 @@ I realised that it is probably bettet if the error handeling that checks if a fi
 /Eleni Larsson 
 
 2016-01-05
-I downloaded the program DendroPy on my logg in on the KTH computers. I tried to finde the fastphylo program but could not finde it. I emailed the techer for help. I hade problem with understanding dendropy I asked the teacher about this too. I hade problem with taxon_namespace the program toled me that my tree files hade diffrent taxon_namespaces so I have to figure out how to make them equal. I checked the program ReducingNoise and it worked the seconed time I run it. I hade named a function with numbers first, missed a : after a definition of a function and I hade forgotten to import the subprogram re.
+I downloaded the program DendroPy on my logg in on the KTH computers. I tried to finde the fastphylo program but could not
+finde it. I emailed the techer for help. I hade problem with understanding dendropy I asked the teacher about this too. I hade
+problem with taxon_namespace the program toled me that my tree files hade diffrent taxon_namespaces so I have to figure out how
+to make them equal. I checked the program ReducingNoise and it worked the seconed time I run it. I hade named a function with
+numbers first, missed a : after a definition of a function and I hade forgotten to import the subprogram re.
 I decided today to continue the program by myself dou to problems with my lab partners and my schedules.
 /Eleni Larsson
 
 2016-01-06
-I still can not fined the program FastPhylo on the KTH computer and I can not downloed it on my own computer. I am waiting for answer from my teatcher. I have figered out how dendropy works with the taxon_namespaces so I fixed that today. But I can not test run my program because I need to get acces to FastPhylo. I have commented my code today in the Main program. And I have written a code bit for checking if the reference tree is recovered or not but I do not know if this code workes or not.
+I still can not fined the program FastPhylo on the KTH computer and I can not downloed it on my own computer. I am waiting for
+answer from my teatcher. I have figered out how dendropy works with the taxon_namespaces so I fixed that today. But I can not
+test run my program because I need to get acces to FastPhylo. I have commented my code today in the Main program. And I have
+written a code bit for checking if the reference tree is recovered or not but I do not know if this code workes or not.
 /Eleni Larsson 
