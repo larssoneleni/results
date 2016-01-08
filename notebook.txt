@@ -133,3 +133,10 @@ module use /info/DD2404/appbio15/module
 module add appbio15
 But i do not works. I have to contact the teatch tommorow for help. I tried to copy my and Viktors work into a new GitHub account but I can not figure out how to pull och push the work into the new account.
 /Eleni Larsson
+
+2016-01-08
+Today I got help from my teacher how to finde the program FastPhylo so I colde start test running my Main program today. I gave
+up the idé with temporary files because it did not work and I do not have the time to figure out what was wrong. When I ran my
+Main program the first time I thought it was odd that none of the trees with the files with the bad columns taken away
+recovered ás the refernse tree. I founde out that I hade done one indentation error in my ReducingNoise program so I change that.
+/Eleni Larsson
